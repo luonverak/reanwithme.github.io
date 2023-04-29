@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 60%;
+    height: 650px;
+    background-color: aquamarine;
+    margin: auto;
+
+    display: flex;
+}
+.image{
+    width: 50%;
+    height: 65%;
+    background-color: black;
+    display: flex;
+}
+.detail{
+    width: 50%;
+    height: 100%;
+    background-color: red;
+}
